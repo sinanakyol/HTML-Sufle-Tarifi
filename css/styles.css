@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 30px;
+}
+
+#main-section {
+  display: flex;
+}
+
+#main-aside {
+  padding: 0 30px;
+}
+
+.time {
+  color: #AC7088;
+}
+
+
